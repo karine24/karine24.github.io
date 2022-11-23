@@ -1,0 +1,4 @@
+valorant: id = 415171
+elden ring: id = 326243
+fortnite: id = 47137
+cs:go: id = 4291
